@@ -1,4 +1,8 @@
 _repo: Othello_6725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hauff, Wilhelm
@@ -10,6 +14,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6725#Othello
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
